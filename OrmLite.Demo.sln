@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLite.Demo", "OrmLite.Demo\OrmLite.Demo.csproj", "{80C2BC64-48E4-47BD-9F0E-9F43820D2F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLite.Demo.Console", "OrmLite.Demo.Console\OrmLite.Demo.Console.csproj", "{7CABD991-8CAA-48DD-A676-E9786F8D05C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStack.OrmLite.Extension", "ServiceStack.OrmLite.Extension\ServiceStack.OrmLite.Extension.csproj", "{C03C56C5-8F09-4986-AD6A-06B8141A2AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C2BC64-48E4-47BD-9F0E-9F43820D2F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C2BC64-48E4-47BD-9F0E-9F43820D2F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C2BC64-48E4-47BD-9F0E-9F43820D2F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C2BC64-48E4-47BD-9F0E-9F43820D2F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CABD991-8CAA-48DD-A676-E9786F8D05C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CABD991-8CAA-48DD-A676-E9786F8D05C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CABD991-8CAA-48DD-A676-E9786F8D05C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CABD991-8CAA-48DD-A676-E9786F8D05C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03C56C5-8F09-4986-AD6A-06B8141A2AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03C56C5-8F09-4986-AD6A-06B8141A2AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03C56C5-8F09-4986-AD6A-06B8141A2AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03C56C5-8F09-4986-AD6A-06B8141A2AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
